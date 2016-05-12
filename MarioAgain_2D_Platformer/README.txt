@@ -17,7 +17,7 @@ As this game was made using the XNA framework, it is written primarily in C#.
 
 Files:
 1. MarioAgainGame.zip (Shortcut to Google Drive)
----The zip file containing the executable game. Simply unzip the contents and run the executable.
+---The zip file containing the executable game. Simply unzip the contents and run the executable on a Windows computer.
 ---Controls and credits are in the Game Info screen, accessible through the main menu.
 ---The code samples in this directory are exactly the same as the ones used in this build of the game.
 2. README.txt
